@@ -5,7 +5,6 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: '/annadata-frontend-website/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
